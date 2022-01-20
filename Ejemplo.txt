@@ -1,3 +1,4 @@
 Hola, bienvenidos
 
-Este es un ejemplo para empezar a utilizar git y  github
+Este es un ejemplo para empezar a utilizar git y  github.
+Lo que vamos a hacer es empezar por conocer los comandos
