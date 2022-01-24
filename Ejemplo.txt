@@ -1,5 +1,7 @@
-Hola, bienvenidos
+Hola, bienvenidos a este ejemplo
 
 Este es un ejemplo para empezar a utilizar git y  github
 
-Mañana nos enfocaremos en su vida laboral
+Hoy nos enfocaremos en su vida laboral
+
+En este caso agregaremos nueva información.
